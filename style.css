@@ -21,6 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: -webkit-sticky;
     position: sticky;
     top: 0;
     background-image: url("assets/images/hero-bg.jpg");
